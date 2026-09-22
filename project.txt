@@ -1,2 +1,1 @@
-This is developer machine 1
-Hello Developer 1
+Register feature is getting added by D2
